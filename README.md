@@ -1,5 +1,5 @@
                                  Hi 👋, I'm Noor Fatima
-                                  Developer and Hacker!
+                                  SOFTWARE DEVELOPER
 
 🌱 I’m currently learning and working on MERN Stack and Penetration tester.
 
