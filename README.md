@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
 <h1 align="center">Hi 👋, I'm Noor Fatima</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://i.redd.it/0k6meqvps4h91.gif"/>
