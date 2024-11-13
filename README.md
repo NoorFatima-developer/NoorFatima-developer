@@ -7,7 +7,7 @@
 " height="40"width="40" />I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</h1> 
      
 <div id="header" align="center">  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8zeHk1OXU0eWlsaDJ6Y3k5MHppYmlqM2VydHgyanNwbWg2YTY4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  width="400"/> 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8zeHk1OXU0eWlsaDJ6Y3k5MHppYmlqM2VydHgyanNwbWg2YTY4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  width="40"/> 
 </div>
 
 <div align="center">
