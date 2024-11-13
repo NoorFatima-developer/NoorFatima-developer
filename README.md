@@ -1,4 +1,4 @@
- <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Neeru</h1> 
+ <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</h1> 
      
 <div id="header" align="center">  
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
@@ -67,10 +67,7 @@
 </table>
 <br>
 
-<h2 align="center"> ⚡ Open Source Programs & Achievements </h2>
-<p align="center">
-    I'm honored to be ranked <strong>Rank 18</strong> in GSSoC 2024! 🎉
-</p>
+<h2 align="center"> ⚡ Open Source Programs & Achievements </h2>    
 
 <!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
