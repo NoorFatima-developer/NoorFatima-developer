@@ -6,7 +6,7 @@
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</a></h1>
 
 <div id="header" align="center">  
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRqM3d6dmlkN2NpMGJvd2NoNXM4bXp6YjdlNmhxczd4OWZ0MTB1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="400"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRqM3d6dmlkN2NpMGJvd2NoNXM4bXp6YjdlNmhxczd4OWZ0MTB1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
