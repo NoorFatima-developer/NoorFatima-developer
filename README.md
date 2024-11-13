@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg" width="100%" alt="Banner Image" />
+    <img src="https://s3.ezgif.com/tmp/ezgif-3-0d1c065910.gif" width="100%" alt="Banner Image" />
 </div>
  
  <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</h1> 
