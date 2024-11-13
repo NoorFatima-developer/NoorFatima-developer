@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdnN2R1cGZ0end4eG9ycWNrZDh6a3BzdWU5NnlrcnFmeHJjb2g5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cn2noc6qR0HjAfVzmn/giphy.gif" width="100%" alt="Banner Image" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp3M3N2NHR0Z2RmbmVqYmZrazI3b241cmhhZTJ5OHp1aHczb2hhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="100%" alt="Banner Image" />
 </div>
 
 <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</a></h1>
