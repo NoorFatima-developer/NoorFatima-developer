@@ -2,15 +2,16 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100%" alt="Banner Image" />
 </div>
- 
- <h1 align="center"> Hi!!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdnN2R1cGZ0end4eG9ycWNrZDh6a3BzdWU5NnlrcnFmeHJjb2g5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cn2noc6qR0HjAfVzmn/giphy.gif
-" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</h1> 
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</h1> 
      
 <div id="header" align="center">  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW8zeHk1OXU0eWlsaDJ6Y3k5MHppYmlqM2VydHgyanNwbWg2YTY4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif"  width="40"/> 
-</div>
-
-<div align="center">
+<img src="h <h1 align="center"> Hi!!<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN3eW54bWptenhndDVleGozNGJhNnpwdG83cWh1Mmd1ejVkam0waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.webp" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/noor-fatima21" target="_blank">Noor Fatima</h1> 
+     
+    <div id="header" align="center">  
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
+    </div>
+    
+    <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;PUCIT'24+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
 
