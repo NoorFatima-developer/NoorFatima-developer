@@ -10,9 +10,6 @@
 <!-- View count -->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=noorfatima&&style=for-the-badge" /> </p>
 
-<!-- Separator line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <!-- GitHub Stats -->
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 <div align="center" width="50%">
@@ -22,10 +19,6 @@
 <div align="center">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoorFatima-developer&theme=github_dark" />
 </div>
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 <br>
 
 <h2 align="center"> ⚡ Open Source Programs & Achievements </h2>    
